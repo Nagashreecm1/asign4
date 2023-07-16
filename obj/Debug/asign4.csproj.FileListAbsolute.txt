@@ -1,0 +1,8 @@
+C:\dialytask\Day_4\asign4\bin\Debug\asign4.exe.config
+C:\dialytask\Day_4\asign4\bin\Debug\asign4.exe
+C:\dialytask\Day_4\asign4\bin\Debug\asign4.pdb
+C:\dialytask\Day_4\asign4\obj\Debug\asign4.csproj.AssemblyReference.cache
+C:\dialytask\Day_4\asign4\obj\Debug\asign4.csproj.SuggestedBindingRedirects.cache
+C:\dialytask\Day_4\asign4\obj\Debug\asign4.csproj.CoreCompileInputs.cache
+C:\dialytask\Day_4\asign4\obj\Debug\asign4.exe
+C:\dialytask\Day_4\asign4\obj\Debug\asign4.pdb
